@@ -1,0 +1,15 @@
+{
+  "name": "foodtruckfinder",
+  "version": "1.0.0",
+  "description": "Prints out a list of food trucks that are open at the current date",
+  "main": "FoodTruckFinder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
